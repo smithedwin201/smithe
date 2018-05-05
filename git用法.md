@@ -7,15 +7,15 @@ git config --global user.email "tony@gmail.com"
 ### 2.基本命令  
 git init  
 git add .  
-git reset .  取消添加
+git reset .  	取消添加
 git commit -m "first"  
 
 git status  
-git diff <dirname>      可以看到具体修改  
-git checkout <dirname>  回滚没有添加的修改  
+git diff <dirname>      		可以看到具体修改  
+git checkout <dirname>  		回滚没有添加的修改  
 
 git log   
-git log <commitid> -1 -p  查看一条记录的(-1)详细信息(-p)
+git log <commitid> -1 -p  		查看一条记录的(-1)详细信息(-p)
 
 
 
