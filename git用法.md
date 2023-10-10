@@ -5,7 +5,7 @@ git config --global user.name "tony"
 git config --global user.email "tony@gmail.com"
 
 ### 2.基本命令  
-
+  
 git in
 git add .  
 git reset .  	取消添加
